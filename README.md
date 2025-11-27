@@ -58,8 +58,8 @@ Full-stack beginner project using server-side rendering.
 - EJS templating + partials  
 - Dynamic UI from backend data  
 - Clean routing & modular structure  
-**Repo:** (add link)  
-**Live Demo:** (add link if deployed)
+**Repo:** 
+**Live Demo:** 
 
 ---
 
@@ -67,14 +67,14 @@ Full-stack beginner project using server-side rendering.
 - Fetching API data  
 - Async/await, JSON  
 - Dynamic DOM rendering  
-**Repo:** (add when ready)
+**Repo:** 
 
 ---
 
 ### **3. 🎨 Responsive Landing Page (HTML/CSS)**  
 - Flexbox + Grid  
 - Mobile-first  
-**Repo:** (add link)
+**Repo:** 
 
 ---
 
