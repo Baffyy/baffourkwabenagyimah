@@ -58,8 +58,8 @@ Full-stack beginner project using server-side rendering.
 - EJS templating + partials  
 - Dynamic UI from backend data  
 - Clean routing & modular structure  
-**Repo:** 
-**Live Demo:** 
+**Repo:** https://github.com/Baffyy/todo-list
+**Live Demo:** https://todo-list-uxr3.onrender.com
 
 ---
 
