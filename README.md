@@ -1,5 +1,5 @@
 # 👋🏾 Baffour Kwabena Gyimah  
-**Environmental Management MSc | Sustainability Analyst | Junior Developer in Training (Node, Express, EJS, JS)**
+**Environmental Management MSc | Sustainability Analyst | Junior Developer in Training (Node, Express, EJS, JS, React)**
 
 I’m an Environmental Management graduate with hands-on experience in sustainability research, solar PV performance analysis, carbon metrics, and stakeholder engagement. Alongside this, I’m deliberately transitioning into software development by learning full-stack fundamentals and building real, functional projects.
 
@@ -10,7 +10,7 @@ My strongest project so far is a **To-Do App built with Node.js, Express, and EJ
 ## 🔍 About Me  
 - MSc in Environmental Management  
 - Experience with renewable energy (Solar PV), environmental reporting, surveys, and data analysis  
-- Currently learning: **Node.js, Express, EJS, HTML, CSS (Flexbox & Grid), JavaScript**  
+- Currently learning: **Node.js, Express, EJS, HTML, CSS (Flexbox & Grid), JavaScript, React**  
 - Building practical projects to strengthen backend + frontend fundamentals  
 - Long-term transition goal: **Junior Developer role in 2026**
 
@@ -30,6 +30,7 @@ My strongest project so far is a **To-Do App built with Node.js, Express, and EJ
 - CSS3 (Flexbox, Grid)  
 - JavaScript (DOM, Events)  
 - Responsive Design
+- React
 
 ### **Tools**
 - Git & GitHub  
@@ -86,8 +87,8 @@ Full-stack beginner project using server-side rendering.
 ---
 
 ## 📈 Learning Roadmap  
-**Current:** Node.js, Express, EJS, JavaScript  
-**Next:**  
+**Current:** Finished Learning Everything   
+**Next:** Build Real Life Projects 
 - Weather API project  
 - Learn React basics  
 - Build a full-stack project (Node + React)  
